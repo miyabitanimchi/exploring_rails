@@ -29,3 +29,4 @@ Things you may want to cover:
   - Models: Dataabases
   - Views: Webpages
   - Controllers: Interface between Model and View
+- `rails routes` to show all the routes
