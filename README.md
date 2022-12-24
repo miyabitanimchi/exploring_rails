@@ -30,3 +30,6 @@ Things you may want to cover:
   - Views: Webpages
   - Controllers: Interface between Model and View
 - `rails routes` to show all the routes
+- `rails g scaffold DB_NAME first_name: string last_name: string...` to create a model
+- `rails db:migrate` to migrate DB
+- `rails g controller NAME` to create a controller
