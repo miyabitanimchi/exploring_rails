@@ -33,5 +33,6 @@ Things you may want to cover:
 - `rails g scaffold DB_NAME first_name: string last_name: string...` to create a model
 - `rails db:migrate` to migrate DB
 - `rails g controller NAME` to create a controller
+- After adding gem in `Gemfile`, run `bundle install`
 
 [Tutorial](https://www.youtube.com/watch?v=fmyvWz5TUWg&t=6287s)
